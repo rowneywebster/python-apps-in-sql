@@ -1,0 +1,14 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+.venv/
+env/
+
+# SQLite database (optional, unless you want to track it)
+*.sqlite3
+
+# OS or editor files
+.DS_Store
+*.swp
